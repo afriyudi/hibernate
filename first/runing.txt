@@ -1,0 +1,3 @@
+javac -classpath ".;C:\belajar\hibernate\hibernatejar\*" -d . *.java
+
+java -classpath ".;C:\belajar\hibernate\hibernatejar\*" com.javatpoint.mypackage.StoreData
