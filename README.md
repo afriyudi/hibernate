@@ -6,4 +6,5 @@ cara penggunaan lihat video youtube ini :
 https://youtu.be/mnKypAFC2v8  bagian 1
 https://youtu.be/IcIIZNYclvg  bagian 2
 
+satu video : https://youtu.be/c4Jgojqp8u4
 <embed src="https://github.com/afriyudi/hibernate/blob/main/readme.pdf" width="600px" height="500px" />
